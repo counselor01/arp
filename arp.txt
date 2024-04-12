@@ -1,0 +1,32 @@
+Cain & abel
+
+my steps
+->click sniffer
+->click second option on top line . Beside folder icon
+->click plus (select a range (optional)) click ok
+-> click arp at 
+->select a mac address -> click plus
+->click mac address(on right) -> select mac address on left -> click ok
+->click arp option on top line (its with a arp logo)
+
+
+journal steps
+: Select sniffer on the top.
+
+: Next to folder icon click on icon name start/stop sniffer(top line of tools). Select device and click on ok.
+
+: Click on “+” icon on the top. Click on ok
+
+: Shows the Connected host
+
+: Select Arp at bottom.
+
+: Click on “+” icon at the top.
+
+: Click on start/stop ARP icon on top.
+
+: Poisoning the source.
+
+: Go to any website on source ip address.
+
+: Go to password option in the cain & abel and see the visited site password.
